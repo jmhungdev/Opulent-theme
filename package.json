@@ -1,7 +1,7 @@
 {
     "name": "opulent-theme",
     "displayName": "Opulent Theme",
-    "description": "A VS Code theme for coding on a sun-kissed beach in Persia. 🐘 ",
+    "description": "A coding theme for drinking margarita on a sun-kissed beach in Persia.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.45.0"
