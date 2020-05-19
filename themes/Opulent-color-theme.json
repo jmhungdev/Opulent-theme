@@ -14,12 +14,12 @@
 
     //navigation bar(don't change) class-a
     "activityBar.background": "#131016",
-    "activityBar.foreground": "#c5c5c5",
+    "activityBar.foreground": "#e4e4e4",
     "activityBarBadge.background": "#0d6580",
-    "activityBarBadge.foreground": "#c5c5c5",
+    "activityBarBadge.foreground": "#e4e4e4",
     // "activityBar.activeBackground": "#ff0000", (no-need)
     // "activityBar.activeFocusBorder": "#f51606da", (no-deed)
-    "activityBar.activeBorder": "#42050b",
+    "activityBar.activeBorder": "#ffffff",
     // "activityBar.border": "#ff0000",
     // "activityBar.dropBackground": "#ff0000",
     // "activityBar.inactiveForeground": "#ff0000",
@@ -40,7 +40,7 @@
 
     //side panel (don't change!!)
     "sideBar.background": "#141018",
-    "sideBar.foreground": "#b4b4b4",
+    "sideBar.foreground": "#cccccc",
     //side panel section header background
     "sideBarSectionHeader.background": "#0e021a00",
     //indent vertical line (inactive)
@@ -50,7 +50,7 @@
 
     //editor background and foreground
     "editor.background": "#16111b",
-    "editor.foreground": "#a497b5",
+    "editor.foreground": "#e6e6e6",
     //editor selected background
     // "editor.selectionBackground": "#75aa20",
 
@@ -62,12 +62,13 @@
     //editor selected little dots
     "editorWhitespace.foreground": "#7f66a3",
     //Editor no tab background
-    "editorGroupHeader.tabsBackground": "#1a103d62",
-    "tab.inactiveBackground": "#16111b",
-    "tab.activeBackground": "#131016",
+    "editorGroupHeader.tabsBackground": "#131016",
+    "tab.inactiveBackground": "#131016",
+    "tab.inactiveForeground": "#a1a1a1",
+    "tab.activeBackground": "#150b1f",
     //tab active border-bottom color
-    "tab.activeBorder": "#e26c36",
-    "tab.inactiveForeground": "#60576f",
+    "tab.activeBorder": "#ffffff",
+  
     //editor border shadow
     // "scrollbar.shadow": "#6bff09",
     // "scrollbarSlider.activeBackground": "#f8f8f899",
@@ -98,7 +99,7 @@
     "pickerGroup.border": "#490e7b",
 
     
-    "list.activeSelectionForeground": "#ffffffaa",
+    "list.activeSelectionForeground": "#e4e4e4",
     "list.focusBackground": "#00000055",
   
     "list.inactiveSelectionBackground": "#00000033",
@@ -164,6 +165,9 @@
     // "editorGutter.modifiedBackground": "#00b789",
     // "editorGutter.addedBackground": "#1f5ce9",
     // "editorGutter.deletedBackground": "#e9004b"
+    // "editor.rangeHighlightBackground": "#be9fa6ee",
+    // "editor.rangeHighlightBorder": "#ff0000",
+    // "list.focusForeground": "#ff0000"
 
 
     // The Minimap shows a minified version of the current file.
@@ -198,8 +202,8 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "fontStyle": "bold",
-        "foreground": "#22a722"
+        // "fontStyle": "bold",
+        "foreground": "#ff6e20"
       }
     },
     {
@@ -208,7 +212,7 @@
         "constant.other.color"
       ],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#e4e4e4"
       }
     },
     {
@@ -229,7 +233,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#d18cff"
       }
     },
     {
@@ -249,7 +253,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#38afdf"
       }
     },
     {
@@ -282,7 +286,7 @@
         "meta.block variable.other"
       ],
       "settings": {
-        "foreground": "#f07178"
+        "foreground": "#f08484"
       }
     },
     {
@@ -323,7 +327,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#01e48d"
       }
     },
     {
@@ -339,7 +343,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#ffba3a"
       }
     },
     {
@@ -383,7 +387,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#FF5370"
+        "foreground": "#4b9bf7"
       }
     },
     {
