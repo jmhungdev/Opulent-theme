@@ -1,6 +1,6 @@
 # Opulent Theme
 
-A VS Code theme inspired by persia, subset and margaritas.
+A VS Code theme inspired by Persia, sunset and margaritas.
 
 ## Installation
 
