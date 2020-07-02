@@ -1,6 +1,6 @@
 # Opulent Theme
 
-If you could code on a sun-kissed beach drinking margarita somewhere in Persia <sup style="color:orange">[1]</sup> , why wouldn't you?
+A VS Code theme inspired by persia, subset and margaritas.
 
 ## Installation
 
